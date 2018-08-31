@@ -4,3 +4,4 @@
 ##Sites
 ---
 [鸟哥的博客-风雪之隅](http://www.laruence.com)
+<a href="http://www.laruence.com" target="_blank">鸟哥的博客-风雪之隅</a>
