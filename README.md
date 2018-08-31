@@ -3,4 +3,4 @@
 
 ## Sites
 ---
-[风雪之隅](http://www.laruence.com?_blank)
+<a href="http://www.laruence.com" target="_blank">风雪之隅</a>
