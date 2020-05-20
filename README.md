@@ -9,7 +9,7 @@
 * [白俊遥](https://baijunyao.com/)
 * [琯琯](https://guanguans.cn/)
 
-## Sites
+## QASites
 * [segmentfault--思否](https://segmentfault.com/)
 * [掘金](https://juejin.im/timeline)
 
