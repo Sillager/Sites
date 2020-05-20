@@ -1,3 +1,12 @@
+### 2020年5月19日 
+- [更好的 Node.js：Deno](https://github.com/denoland/deno) 
+- [在 VSCode 里画流程图：Draw.io Integration](https://github.com/hediet/vscode-drawio)
+- [可解释的机器学习：InterpretableMLBook](https://github.com/MingchaoZhu/InterpretableMLBook)
+- [AI 圣经：DeepLearning](https://github.com/MingchaoZhu/DeepLearning)
+- [渗透测试好帮手：OneForAll](https://github.com/shmilylty/OneForAll)
+
+
+
 记录一些站点
 
 ## BlogSites
