@@ -19,11 +19,11 @@
 ## BlogSites
 * [风雪之隅](http://www.laruence.com)
 * [阮一峰](http://www.ruanyifeng.com/home.html)
-* [clarity](https://blog.ti-node.com/)
+* [clarity](https://www.blog.ti-node.com/)
 * [Panda](https://www.wujunze.com/)
 * [歪麦博客](https://www.awaimai.com/)
-* [白俊遥](https://baijunyao.com/)
-* [琯琯](https://guanguans.cn/)
+* [白俊遥](https://www.baijunyao.com/)
+* [琯琯](https://www.guanguans.cn/)
 
 ## QASites
 * [segmentfault--思否](https://segmentfault.com/)
