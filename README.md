@@ -1,6 +1,12 @@
 
 
-
+### 2020年5月22日
+- [在Github上发现谁在做什么](https://github.com/thelittlewonder/gitstalk)
+- [DingTalk(dingding) --钉钉机器人的 go 实现](https://github.com/CatchZeng/dingtalk)
+- [基于RPC的Golang插件系统](https://github.com/hashicorp/go-plugin)
+- [使用GO和HTML / JS / CSS构建跨平台的GUI应用程序（由Electron提供支持）](https://github.com/asticode/go-astilectron)
+- [KnpMenu库为PHP 7提供面向对象的菜单](https://github.com/KnpLabs/KnpMenu)
+- [PHP标准库](https://github.com/azjezz/psl)
 
 ### 2020年5月21日
 - [free ss/ssr、vmess、 vpn 分享](https://hoochanlon.github.io/vpn-proxy-share)
