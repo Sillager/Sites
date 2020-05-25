@@ -2,7 +2,7 @@
 
 
 ### 2020年5月25日
--[一款专注于阅读的博客园主题](https://github.com/esofar/cnblogs-theme-silence)
+- [一款专注于阅读的博客园主题](https://github.com/esofar/cnblogs-theme-silence)
 
 ### 2020年5月22日
 - [是 难得一见 的 Jetpack MVVM 最佳实践](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice)
