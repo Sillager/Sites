@@ -1,5 +1,7 @@
 
 
+### 2020年5月25日
+- [Go 语言学习资料与社区索引](https://github.com/unknwon/go-study-index)
 
 ### 2020年5月25日
 - [一款专注于阅读的博客园主题](https://github.com/esofar/cnblogs-theme-silence)
