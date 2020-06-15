@@ -41,7 +41,7 @@
 ## BlogSites
 * [风雪之隅](http://www.laruence.com)
 * [阮一峰](http://www.ruanyifeng.com/home.html)
-* [clarity](https://www.blog.ti-node.com/)
+* [clarity](https://www.ti-node.com/)
 * [Panda](https://www.wujunze.com/)
 * [歪麦博客](https://www.awaimai.com/)
 * [白俊遥](https://www.baijunyao.com/)
