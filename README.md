@@ -19,6 +19,11 @@
 
 ### 2020年06月22日
 - [子豪兄的零基础树莓派教程](https://github.com/TommyZihao/ZihaoTutorialOfRaspberryPi)
+- [可爱的博客园样式美化、自定义博客园样式](https://github.com/miluluyo/cute-cnblogs)
+- [Ultimate Go学习指南](https://github.com/hoanhan101/ultimate-go)
+- [算法模板，最科学的刷题方式，最快速的刷题路径](https://github.com/greyireland/algorithm-pattern)
+- [适用于macOS的MySQL/MariaDB数据库管理](https://github.com/sequelpro/sequelpro)
+- [非常简单的XDebug跟踪Web GUI](https://github.com/splitbrain/xdebug-trace-tree)
 ### 2020年06月15日
 - [🎆可视化算法的交互式平台](https://github.com/algorithm-visualizer/algorithm-visualizer)
 ### 2020年06月09日
