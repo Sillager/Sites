@@ -1,19 +1,17 @@
 
-### 2020.06.15
+### 2020年06月22日
+- [子豪兄的零基础树莓派教程](https://github.com/TommyZihao/ZihaoTutorialOfRaspberryPi)
+### 2020年06月15日
 - [🎆可视化算法的交互式平台](https://github.com/algorithm-visualizer/algorithm-visualizer)
-
-### 2020.06.09
+### 2020年06月09日
 - [设计模式](https://blog.csdn.net/lovelion/article/details/17517213)
 - [php语言以及web网站开发相关的一套资源](https://github.com/threadshare/php)
-
 ### 2020年5月25日
 - [Go 语言学习资料与社区索引](https://github.com/unknwon/go-study-index)
-
 ### 2020年5月25日
 - [一款专注于阅读的博客园主题](https://github.com/esofar/cnblogs-theme-silence)
 - [用于.NET和.NET Core的PHP编译器和运行](https://github.com/peachpiecompiler/peachpie)
 - [Go 语言优秀资源整理，为项目落地加速🏃 ](https://github.com/shockerli/go-awesome)
-
 ### 2020年5月22日
 - [是 难得一见 的 Jetpack MVVM 最佳实践](https://github.com/KunMinX/Jetpack-MVVM-Best-Practice)
 - [在Github上发现谁在做什么](https://github.com/thelittlewonder/gitstalk)
@@ -22,11 +20,9 @@
 - [使用GO和HTML / JS / CSS构建跨平台的GUI应用程序（由Electron提供支持）](https://github.com/asticode/go-astilectron)
 - [KnpMenu库为PHP 7提供面向对象的菜单](https://github.com/KnpLabs/KnpMenu)
 - [PHP标准库](https://github.com/azjezz/psl)
-
 ### 2020年5月21日
 - [free ss/ssr、vmess、 vpn 分享](https://hoochanlon.github.io/vpn-proxy-share)
 - [Swoole的框架hyperf](https://github.com/hyperf/hyperf)
-
 ### 2020年5月20日 
 - [更好的 Node.js：Deno](https://github.com/denoland/deno) 
 - [在 VSCode 里画流程图：Draw.io Integration](https://github.com/hediet/vscode-drawio)
