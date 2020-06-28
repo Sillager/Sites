@@ -10,8 +10,6 @@
 ## QASites
 * [segmentfault--思否](https://segmentfault.com/)
 * [掘金](https://juejin.im/timeline)
-* [LaravelChina](https://laravel-china.org/)
-* [TiNODE](https://t.ti-node.com)
 ## StudySites
 * [LeetCode](https://leetcode-cn.com/)
 
