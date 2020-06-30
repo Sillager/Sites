@@ -8,13 +8,15 @@
 * [白俊遥](https://www.baijunyao.com/)
 * [琯琯](https://www.guanguans.cn/)
 ## QASites
-* [segmentfault--思否](https://segmentfault.com/)
+* [segmentfault](https://segmentfault.com/)
 * [掘金](https://juejin.im/timeline)
 ## StudySites
 * [LeetCode](https://leetcode-cn.com/)
 
 ## FavoriteLink
 
+### 2020年06月30日
+- [Olive是一个免费的非线性视频编辑器，适用于Windows，macOS和Linux](https://github.com/olive-editor/olive)
 ### 2020年06月22日
 - [子豪兄的零基础树莓派教程](https://github.com/TommyZihao/ZihaoTutorialOfRaspberryPi)
 - [可爱的博客园样式美化、自定义博客园样式](https://github.com/miluluyo/cute-cnblogs)
@@ -23,12 +25,12 @@
 - [适用于macOS的MySQL/MariaDB数据库管理](https://github.com/sequelpro/sequelpro)
 - [非常简单的XDebug跟踪Web GUI](https://github.com/splitbrain/xdebug-trace-tree)
 ### 2020年06月15日
-- [🎆可视化算法的交互式平台](https://github.com/algorithm-visualizer/algorithm-visualizer)
+- [可视化算法的交互式平台](https://github.com/algorithm-visualizer/algorithm-visualizer)
 ### 2020年06月09日
 - [设计模式](https://blog.csdn.net/lovelion/article/details/17517213)
 - [php语言以及web网站开发相关的一套资源](https://github.com/threadshare/php)
 ### 2020年5月25日
-- [Go 语言学习资料与社区索引](https://github.com/unknwon/go-study-index)
+- [Go语言学习资料与社区索引](https://github.com/unknwon/go-study-index)
 ### 2020年5月25日
 - [一款专注于阅读的博客园主题](https://github.com/esofar/cnblogs-theme-silence)
 - [用于.NET和.NET Core的PHP编译器和运行](https://github.com/peachpiecompiler/peachpie)
