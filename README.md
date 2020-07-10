@@ -12,9 +12,17 @@
 * [掘金](https://juejin.im/timeline)
 ## StudySites
 * [LeetCode](https://leetcode-cn.com/)
+## Tutorial/Manual
+* [beego开发文档](https://www.kancloud.cn/hello123/beego/126087)
 
 ## FavoriteLink
 
+### 2020年07月04日
+- [达比斯课程/实用的python](https://github.com/dabeaz-course/practical-python)
+- [DeepFaceLab是创建Deepfake的领先软件](https://github.com/iperov/DeepFaceLab)
+- [使用Transformers进行端到端对象检测](https://github.com/facebookresearch/detr)
+- [《统计学习方法》第二版的代码实现](https://github.com/fengdu78/lihang-code)
+- [C++ 那些事](https://github.com/Light-City/CPlusPlusThings)
 ### 2020年06月30日
 - [Olive是一个免费的非线性视频编辑器，适用于Windows，macOS和Linux](https://github.com/olive-editor/olive)
 ### 2020年06月22日
