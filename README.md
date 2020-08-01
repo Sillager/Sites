@@ -17,6 +17,11 @@
 
 ## FavoriteLink
 
+## 2020年08月01日
+- [小浩算法-全部采用漫画图解的方式，简单易懂，适合初中级读者](https://github.com/geekxh/hello-algorithm)
+- [Go样式指南集合](https://github.com/dgryski/awesome-go-style)
+- [polarisxu:专为国人开发者打造的 Cheat Sheet — 操作系统、数据库、编程语言、框架和开发工具等速查表](https://github.com/polaris1119/awesome-cheatsheets-cn)
+- [Hacker Scripts](https://github.com/NARKOZ/hacker-scripts)
 ### 2020年07月04日
 - [达比斯课程/实用的python](https://github.com/dabeaz-course/practical-python)
 - [DeepFaceLab是创建Deepfake的领先软件](https://github.com/iperov/DeepFaceLab)
