@@ -17,6 +17,14 @@
 
 ## FavoriteLink
 
+## 2020年08月06日
+- [国内低代码平台](https://github.com/taowen/awesome-lowcode)
+- [大咖说PHP](https://github.com/baiyutang/awesome-php-meetup)
+- [laravel5.8源码阅读](https://github.com/immortalChensm/laravel5.8)
+- [Laravel最佳实践](https://github.com/alexeymezenin/laravel-best-practices/blob/master/chinese.md)
+- [Laravel最佳实践中文版](https://github.com/kevinyan815/laravel_best_practices_cn)
+- [Laravel核心代码学习](https://github.com/kevinyan815/Learning_Laravel_Kernel)
+- [Go Web 编程入门](https://github.com/kevinyan815/go_web_programming)
 ## 2020年08月01日
 - [小浩算法-全部采用漫画图解的方式，简单易懂，适合初中级读者](https://github.com/geekxh/hello-algorithm)
 - [Go样式指南集合](https://github.com/dgryski/awesome-go-style)
