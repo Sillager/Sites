@@ -17,6 +17,8 @@
 
 ## FavoriteLink
 
+## 2020年08月07日
+- [帅地整理](https://github.com/iamshuaidi/CS-Book)
 ## 2020年08月06日
 - [国内低代码平台](https://github.com/taowen/awesome-lowcode)
 - [大咖说PHP](https://github.com/baiyutang/awesome-php-meetup)
