@@ -17,6 +17,8 @@
 
 ## FavoriteLink
 
+## 2021年08月05日
+- [🌎 一个星际通讯平台 🚀](https://github.com/misskey-dev/misskey)
 ## 2020年08月07日
 - [帅地整理](https://github.com/iamshuaidi/CS-Book)
 ## 2020年08月06日
