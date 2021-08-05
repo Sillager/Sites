@@ -18,6 +18,7 @@
 ## FavoriteLink
 
 ## 2021年08月05日
+- [「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识](https://github.com/Snailclimb/JavaGuide)
 - [🌎 一个星际通讯平台 🚀](https://github.com/misskey-dev/misskey)
 - [⚔️Web Hacker's Weapons / Web 黑客使用的一组很酷的工具。快乐黑客，快乐寻虫](https://github.com/hahwul/WebHackersWeapons)
 ## 2020年08月07日
